@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Continues",
+  "base_artist": "星野 源",
+  "createdAt": "2026-03-22T16:10:38.859655Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Saga Continues Outro",
+      "artist": "Wu-Tang Clan feat. RZA",
+      "has_synced": true,
+      "path": "select/01_The_Saga_Continues_Outro_Wu-Tang_Clan_feat._RZA.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Saga Continues Outro (feat. RZA)",
+      "artist": "Wu-Tang Clan",
+      "has_synced": true,
+      "path": "select/02_The_Saga_Continues_Outro_(feat._RZA)_Wu-Tang_Clan.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Wu-Tang The Saga Continues Intro",
+      "artist": "Wu-Tang Clan feat. RZA",
+      "has_synced": true,
+      "path": "select/03_Wu-Tang_The_Saga_Continues_Intro_Wu-Tang_Clan_feat._RZA.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Wu-Tang The Saga Continues Intro (feat. RZA)",
+      "artist": "Wu-Tang Clan",
+      "has_synced": true,
+      "path": "select/04_Wu-Tang_The_Saga_Continues_Intro_(feat._RZA)_Wu-Tang_Clan.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "A Long Day Continues / We Sound Amazed",
+      "artist": "The Polyphonic Spree",
+      "has_synced": false,
+      "path": "select/05_A_Long_Day_Continues___We_Sound_Amazed_The_Polyphonic_Spree.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "A Long Day Continues/We Sound Amazed",
+      "artist": "The Polyphonic Spree",
+      "has_synced": false,
+      "path": "select/06_A_Long_Day_Continues_We_Sound_Amazed_The_Polyphonic_Spree.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "All That Makes Us Human Continues",
+      "artist": "BT",
+      "has_synced": false,
+      "path": "select/07_All_That_Makes_Us_Human_Continues_BT.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Cannibalistic Epidemic Continues",
+      "artist": "Unleashed",
+      "has_synced": false,
+      "path": "select/08_Cannibalistic_Epidemic_Continues_Unleashed.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Section 11 (A Long Day Continues / We Sound Amazed)",
+      "artist": "The Polyphonic Spree",
+      "has_synced": true,
+      "path": "select/09_Section_11_(A_Long_Day_Continues___We_Sound_Amazed)_The_Polyphonic_Spree.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Section 11 (A Long Day Continues \u0000 We Sound Amazed)",
+      "artist": "The Polyphonic Spree",
+      "has_synced": true,
+      "path": "select/10_Section_11_(A_Long_Day_Continues_\u0000_We_Sound_Amazed)_The_Polyphonic_Spree.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Soniyo (From \"RAAZ - The Mystery Continues\")",
+      "artist": "Sonu Nigam feat. Neeraj Shridhar & Shreya Ghoshal",
+      "has_synced": false,
+      "path": "select/11_Soniyo_(From__RAAZ_-_The_Mystery_Continues_)_Sonu_Nigam_feat._Neeraj_Shridhar_&_Shreya_Ghoshal.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Overkill II (The Nightmare Continues)",
+      "artist": "Overkill",
+      "has_synced": true,
+      "path": "select/12_Overkill_II_(The_Nightmare_Continues)_Overkill.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The Whipping Continues",
+      "artist": "Thee Oh Sees",
+      "has_synced": false,
+      "path": "select/13_The_Whipping_Continues_Thee_Oh_Sees.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "The Party Continues (feat. Da Brat & Usher) [Video Version]",
+      "artist": "Jermaine Dupri feat. Da Brat & Usher",
+      "has_synced": false,
+      "path": "select/14_The_Party_Continues_(feat._Da_Brat_&_Usher)_[Video_Version]_Jermaine_Dupri_feat._Da_Brat_&_Usher.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Maahi (From \"RAAZ - The Mystery Continues\")",
+      "artist": "Sharib-Toshi feat. Toshi Sabri",
+      "has_synced": true,
+      "path": "select/15_Maahi_(From__RAAZ_-_The_Mystery_Continues_)_Sharib-Toshi_feat._Toshi_Sabri.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Negaposi*Continues (feat. Hatsune Miku)",
+      "artist": "sasakure.UK feat. 初音ミク",
+      "has_synced": false,
+      "path": "select/16_Negaposi_Continues_(feat._Hatsune_Miku)_sasakure.UK_feat._初音ミク.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Da Countdown (Saga Continues)",
+      "artist": "Redman",
+      "has_synced": false,
+      "path": "select/17_Da_Countdown_(Saga_Continues)_Redman.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "The Nightmare Continues",
+      "artist": "Discharge",
+      "has_synced": true,
+      "path": "select/18_The_Nightmare_Continues_Discharge.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Continues",
+      "artist": "星野源",
+      "has_synced": false,
+      "path": "select/pl_01_Continues_星野源.txt"
+    }
+  ]
+}
